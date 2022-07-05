@@ -44,8 +44,7 @@ const Card = ({
               <img src={`${flagCountry}`} width="35" alt="flag" />
             </div>
             <p className="card-text text-center ">
-              A probabilidade é de{' '}
-              <span className="fw-bold">{probability}% </span>
+              A probabilidade é de <span className="fw-bold">{probability}% </span>
             </p>
             <div className=" d-flex justify-content-center">
               <button
