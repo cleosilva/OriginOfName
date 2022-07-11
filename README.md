@@ -45,10 +45,10 @@ Plataforma: Github
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/cleosilva/OrigemDoNome-react>
+$ git clone <https://github.com/cleosilva/OriginOfName.git>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd OrigemDoNome-react
+$ cd OriginOfName
 
 # Instale as dependências
 $ npm install
